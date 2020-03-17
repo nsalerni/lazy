@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/lazy/static/js/main.f1871b01.chunk.js",
-    "main.js.map": "/lazy/static/js/main.f1871b01.chunk.js.map",
+    "main.js": "/lazy/static/js/main.21247e4b.chunk.js",
+    "main.js.map": "/lazy/static/js/main.21247e4b.chunk.js.map",
     "runtime-main.js": "/lazy/static/js/runtime-main.3f3cc0bb.js",
     "runtime-main.js.map": "/lazy/static/js/runtime-main.3f3cc0bb.js.map",
     "static/js/2.83c247ea.chunk.js": "/lazy/static/js/2.83c247ea.chunk.js",
     "static/js/2.83c247ea.chunk.js.map": "/lazy/static/js/2.83c247ea.chunk.js.map",
     "index.html": "/lazy/index.html",
-    "precache-manifest.dd4da61e64579681c2e9930498af669c.js": "/lazy/precache-manifest.dd4da61e64579681c2e9930498af669c.js",
+    "precache-manifest.d192ee1dd16c7f0c55788d556fd97ca4.js": "/lazy/precache-manifest.d192ee1dd16c7f0c55788d556fd97ca4.js",
     "service-worker.js": "/lazy/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.3f3cc0bb.js",
     "static/js/2.83c247ea.chunk.js",
-    "static/js/main.f1871b01.chunk.js"
+    "static/js/main.21247e4b.chunk.js"
   ]
 }
