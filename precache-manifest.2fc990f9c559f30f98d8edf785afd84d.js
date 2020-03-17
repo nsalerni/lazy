@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf72c599f60090bb57e49f3aa3d57667",
+    "revision": "ddc0cf61cc1fbc4ea306f815be5b6742",
     "url": "/lazy/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lazy/static/js/2.83c247ea.chunk.js"
   },
   {
-    "revision": "f7cb41201524359af280",
-    "url": "/lazy/static/js/main.caa20216.chunk.js"
+    "revision": "9df64003883f483f6a56",
+    "url": "/lazy/static/js/main.f53bc7e4.chunk.js"
   },
   {
     "revision": "7815a5d1c057076a4e0e",
