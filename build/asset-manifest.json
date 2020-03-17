@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/lazy/static/js/main.01369e57.chunk.js",
+    "main.js.map": "/lazy/static/js/main.01369e57.chunk.js.map",
+    "runtime-main.js": "/lazy/static/js/runtime-main.3f3cc0bb.js",
+    "runtime-main.js.map": "/lazy/static/js/runtime-main.3f3cc0bb.js.map",
+    "index.html": "/lazy/index.html",
+    "precache-manifest.eaee4a684b4ee10f90bb360c7be9c38a.js": "/lazy/precache-manifest.eaee4a684b4ee10f90bb360c7be9c38a.js",
+    "service-worker.js": "/lazy/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f3cc0bb.js",
+    "static/js/main.01369e57.chunk.js"
+  ]
+}
